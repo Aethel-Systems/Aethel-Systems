@@ -10,6 +10,16 @@ Welcome to my workspace.
 
 Here, **"Systems" does not denote a "team" or "organization"**, but rather signifies a **systematic and ecological approach**—my goal is to gradually integrate all my projects into a cohesive, interconnected, and mutually empowering ecosystem.
 
+### ⚠️ Clarification & Affiliation
+
+Due to the existence of other projects and platforms with similar names, please note the following:
+
+* **Understanding the Name:** You can understand "Aethel-Systems" in two parts. **Aethel** represents my personal identity and the overarching open-source ecosystem, while **Systems** denotes my technical approach to low-level engineering, rather than a company or group.
+* **Open-Source Focus:** This space is strictly dedicated to **open-source software development and low-level system architecture**. 
+* **No Commercial Affiliation:** This profile and my projects have **absolutely no affiliation, connection, or relationship** with the commercial website `aethelsystems.com` (which serves as a landing page for an AI marketing SaaS platform). This is an entirely independent, non-commercial open-source endeavor.
+
+---
+
 ### 🚀 Featured Project
 
 * **[Aethelium](https://github.com/Aethel-Systems/Aethelium)**: A hardware-first, runtime-less systems programming language designed to emit UEFI and bare-metal binaries directly, bypassing traditional linkers.
