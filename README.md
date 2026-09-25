@@ -4,6 +4,15 @@ Welcome to my workspace.
 
 ---
 
+### 🔐 Security Research
+
+- **CVE-2026-28933** (macOS ppp Use-After-Free)  
+  Independently discovered and responsibly disclosed to Apple.  
+  Publicly credited as **Aethel-Systems** in Apple’s official security content for macOS Tahoe 26.6.  
+  → [View Advisory](https://support.apple.com/en-us/128067)
+
+---
+
 ### 🔍 About the Name
 
 **Aethel-Systems** is my personal brand name, representing the **complete technical ecosystem** that I (Aethel) am building for the future. 
